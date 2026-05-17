@@ -1,0 +1,41 @@
+name: KOBIS Daily Save
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  save-kobis:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install packages
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python kobis_realtime_to_github.py
+
+      - name: Commit files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add data/*
+
+          git commit -m "Auto save KOBIS realtime data" || echo "No changes"
+
+          git push
