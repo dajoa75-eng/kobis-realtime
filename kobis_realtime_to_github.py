@@ -81,7 +81,7 @@ def fetch_mobile() -> list[TicketRow]:
         if not re.fullmatch(r"\d{1,3}", line):
             continue
         rank = int(line)
-        if rank < 1 or rank > 200:
+        if rank < 1 or rank > 9999:
             continue
         title = lines[i + 1] if i + 1 < len(lines) else ""
         metric = ""
