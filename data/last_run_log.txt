@@ -1,7 +1,7 @@
 OK
 rows=5
-kobis_realtime_2026-05-17_2129.csv
-kobis_realtime_2026-05-17_2129.json
+kobis_realtime_2026-05-17_2139.csv
+kobis_realtime_2026-05-17_2139.json
 PC fetch failed: BrowserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium_headless_shell-1148/chrome-linux/headless_shell
 ╔════════════════════════════════════════════════════════════╗
 ║ Looks like Playwright was just installed or updated.       ║
