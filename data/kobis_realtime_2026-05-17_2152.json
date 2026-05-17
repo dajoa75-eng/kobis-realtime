@@ -1,0 +1,57 @@
+[
+  {
+    "collected_at": "2026-05-17 21:52:08 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 1,
+    "movie_name_ko": "군체",
+    "movie_name_en": null,
+    "reservation_rate": "46.8%",
+    "reservation_audience": 108565,
+    "reservation_sales": null,
+    "raw_text": "46.8% (108,565명)"
+  },
+  {
+    "collected_at": "2026-05-17 21:52:08 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 2,
+    "movie_name_ko": "마이클",
+    "movie_name_en": null,
+    "reservation_rate": "14.5%",
+    "reservation_audience": 33537,
+    "reservation_sales": null,
+    "raw_text": "14.5% (33,537명)"
+  },
+  {
+    "collected_at": "2026-05-17 21:52:08 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 3,
+    "movie_name_ko": "와일드 씽",
+    "movie_name_en": null,
+    "reservation_rate": "8.6%",
+    "reservation_audience": 19952,
+    "reservation_sales": null,
+    "raw_text": "8.6% (19,952명)"
+  },
+  {
+    "collected_at": "2026-05-17 21:52:08 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 4,
+    "movie_name_ko": "신극장판 은혼: 요시와라 대염상",
+    "movie_name_en": null,
+    "reservation_rate": "4.3%",
+    "reservation_audience": 9873,
+    "reservation_sales": null,
+    "raw_text": "4.3% (9,873명)"
+  },
+  {
+    "collected_at": "2026-05-17 21:52:08 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 5,
+    "movie_name_ko": "악마는 프라다를 입는다 2",
+    "movie_name_en": null,
+    "reservation_rate": "3.4%",
+    "reservation_audience": 7813,
+    "reservation_sales": null,
+    "raw_text": "3.4% (7,813명)"
+  }
+]
