@@ -1,384 +1,395 @@
 {
-  "updated_at": "2026-05-21 06:23:51 KST",
+  "updated_at": "2026-05-22 00:01:28 KST",
   "rows": [
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 1,
       "movie_name_ko": "군체",
       "movie_name_en": null,
-      "reservation_rate": "52.4%",
-      "reservation_audience": 264600,
+      "reservation_rate": "49.2%",
+      "reservation_audience": 257671,
       "reservation_sales": null,
-      "raw_text": "52.4% (누적:264,600명)"
+      "raw_text": "49.2% (누적:257,671명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 2,
       "movie_name_ko": "마이클",
       "movie_name_en": null,
-      "reservation_rate": "10.9%",
-      "reservation_audience": 54827,
+      "reservation_rate": "12.9%",
+      "reservation_audience": 67701,
       "reservation_sales": null,
-      "raw_text": "10.9% (누적:54,827명)"
+      "raw_text": "12.9% (누적:67,701명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 3,
       "movie_name_ko": "와일드 씽",
       "movie_name_en": null,
-      "reservation_rate": "6.7%",
-      "reservation_audience": 33807,
+      "reservation_rate": "6.8%",
+      "reservation_audience": 35457,
       "reservation_sales": null,
-      "raw_text": "6.7% (누적:33,807명)"
+      "raw_text": "6.8% (누적:35,457명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 4,
       "movie_name_ko": "플레이브 아시아 투어 [대쉬: 퀀텀 리프] 앙코르 인 시네마",
       "movie_name_en": null,
-      "reservation_rate": "6.2%",
-      "reservation_audience": 31418,
+      "reservation_rate": "5.9%",
+      "reservation_audience": 30742,
       "reservation_sales": null,
-      "raw_text": "6.2% (누적:31,418명)"
+      "raw_text": "5.9% (누적:30,742명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 5,
-      "movie_name_ko": "신극장판 은혼: 요시와라 대염상",
-      "movie_name_en": null,
-      "reservation_rate": "2.3%",
-      "reservation_audience": 11669,
-      "reservation_sales": null,
-      "raw_text": "2.3% (누적:11,669명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 6,
       "movie_name_ko": "만달로리안과 그로구",
       "movie_name_en": null,
-      "reservation_rate": "2.1%",
-      "reservation_audience": 10445,
+      "reservation_rate": "2.5%",
+      "reservation_audience": 13018,
       "reservation_sales": null,
-      "raw_text": "2.1% (누적:10,445명)"
+      "raw_text": "2.5% (누적:13,018명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 6,
+      "movie_name_ko": "신극장판 은혼: 요시와라 대염상",
+      "movie_name_en": null,
+      "reservation_rate": "2.5%",
+      "reservation_audience": 12898,
+      "reservation_sales": null,
+      "raw_text": "2.5% (누적:12,898명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 7,
-      "movie_name_ko": "너바나 더 밴드 : 전설적 밴드 ‘너바나’와는 별 관련 없는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 공연을 위해 타임머신을 만드는 황당한 작전을 세우고 처음 만났던 17년 전으로 돌",
+      "movie_name_ko": "백룸",
       "movie_name_en": null,
-      "reservation_rate": "1.7%",
-      "reservation_audience": 8612,
+      "reservation_rate": "2.2%",
+      "reservation_audience": 11489,
       "reservation_sales": null,
-      "raw_text": "1.7% (누적:8,612명)"
+      "raw_text": "2.2% (누적:11,489명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 8,
       "movie_name_ko": "악마는 프라다를 입는다 2",
       "movie_name_en": null,
-      "reservation_rate": "1.7%",
-      "reservation_audience": 8563,
+      "reservation_rate": "1.9%",
+      "reservation_audience": 9780,
       "reservation_sales": null,
-      "raw_text": "1.7% (누적:8,563명)"
+      "raw_text": "1.9% (누적:9,780명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 9,
-      "movie_name_ko": "극장판 내 마음의 위험한 녀석",
+      "movie_name_ko": "슈퍼 마리오 갤럭시",
       "movie_name_en": null,
-      "reservation_rate": "1.5%",
-      "reservation_audience": 7781,
+      "reservation_rate": "1.7%",
+      "reservation_audience": 9117,
       "reservation_sales": null,
-      "raw_text": "1.5% (누적:7,781명)"
+      "raw_text": "1.7% (누적:9,117명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 10,
-      "movie_name_ko": "백룸",
+      "movie_name_ko": "너바나 더 밴드 : 전설적 밴드 ‘너바나’와는 별 관련 없는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 공연을 위해 타임머신을 만드는 황당한 작전을 세우고 처음 만났던 17년 전으로 돌",
       "movie_name_en": null,
-      "reservation_rate": "1.3%",
-      "reservation_audience": 6799,
+      "reservation_rate": "1.7%",
+      "reservation_audience": 8909,
       "reservation_sales": null,
-      "raw_text": "1.3% (누적:6,799명)"
+      "raw_text": "1.7% (누적:8,909명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 11,
       "movie_name_ko": "극장판 호빵맨: 세균맨과 그림책의 루룬",
       "movie_name_en": null,
-      "reservation_rate": "1.3%",
-      "reservation_audience": 6772,
+      "reservation_rate": "1.4%",
+      "reservation_audience": 7567,
       "reservation_sales": null,
-      "raw_text": "1.3% (누적:6,772명)"
+      "raw_text": "1.4% (누적:7,567명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 12,
-      "movie_name_ko": "슈퍼 마리오 갤럭시",
+      "movie_name_ko": "극장판 내 마음의 위험한 녀석",
       "movie_name_en": null,
       "reservation_rate": "1.2%",
-      "reservation_audience": 6033,
+      "reservation_audience": 6060,
       "reservation_sales": null,
-      "raw_text": "1.2% (누적:6,033명)"
+      "raw_text": "1.2% (누적:6,060명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 13,
-      "movie_name_ko": "이상한 과자 가게 전천당",
-      "movie_name_en": null,
-      "reservation_rate": "0.7%",
-      "reservation_audience": 3651,
-      "reservation_sales": null,
-      "raw_text": "0.7% (누적:3,651명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 14,
       "movie_name_ko": "뒷자리에 태워줘",
       "movie_name_en": null,
-      "reservation_rate": "0.7%",
-      "reservation_audience": 3501,
+      "reservation_rate": "0.8%",
+      "reservation_audience": 3977,
       "reservation_sales": null,
-      "raw_text": "0.7% (누적:3,501명)"
+      "raw_text": "0.8% (누적:3,977명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 14,
+      "movie_name_ko": "이상한 과자 가게 전천당",
+      "movie_name_en": null,
+      "reservation_rate": "0.8%",
+      "reservation_audience": 3947,
+      "reservation_sales": null,
+      "raw_text": "0.8% (누적:3,947명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 15,
-      "movie_name_ko": "교생실습",
-      "movie_name_en": null,
-      "reservation_rate": "0.7%",
-      "reservation_audience": 3417,
-      "reservation_sales": null,
-      "raw_text": "0.7% (누적:3,417명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 16,
-      "movie_name_ko": "리마인더스 오브 힘",
+      "movie_name_ko": "프로젝트 헤일메리",
       "movie_name_en": null,
       "reservation_rate": "0.6%",
-      "reservation_audience": 3000,
+      "reservation_audience": 3163,
       "reservation_sales": null,
-      "raw_text": "0.6% (누적:3,000명)"
+      "raw_text": "0.6% (누적:3,163명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 17,
+      "rank": 16,
       "movie_name_ko": "파이널 피스",
       "movie_name_en": null,
       "reservation_rate": "0.6%",
-      "reservation_audience": 2995,
+      "reservation_audience": 2928,
       "reservation_sales": null,
-      "raw_text": "0.6% (누적:2,995명)"
+      "raw_text": "0.6% (누적:2,928명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 18,
+      "rank": 17,
       "movie_name_ko": "살목지",
       "movie_name_en": null,
-      "reservation_rate": "0.5%",
-      "reservation_audience": 2459,
+      "reservation_rate": "0.6%",
+      "reservation_audience": 2904,
       "reservation_sales": null,
-      "raw_text": "0.5% (누적:2,459명)"
+      "raw_text": "0.6% (누적:2,904명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 19,
-      "movie_name_ko": "남태령",
+      "rank": 18,
+      "movie_name_ko": "교생실습",
       "movie_name_en": null,
       "reservation_rate": "0.5%",
-      "reservation_audience": 2312,
+      "reservation_audience": 2593,
       "reservation_sales": null,
-      "raw_text": "0.5% (누적:2,312명)"
+      "raw_text": "0.5% (누적:2,593명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 19,
+      "movie_name_ko": "미세스 그린 애플 매지컬 10주년 기념 라이브 ~피오르드~ 온 스크린",
+      "movie_name_en": null,
+      "reservation_rate": "0.5%",
+      "reservation_audience": 2489,
+      "reservation_sales": null,
+      "raw_text": "0.5% (누적:2,489명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 20,
       "movie_name_ko": "상자 속의 양",
       "movie_name_en": null,
-      "reservation_rate": "0.5%",
+      "reservation_rate": "0.4%",
       "reservation_audience": 2303,
       "reservation_sales": null,
-      "raw_text": "0.5% (누적:2,303명)"
+      "raw_text": "0.4% (누적:2,303명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 21,
-      "movie_name_ko": "프로젝트 헤일메리",
-      "movie_name_en": null,
-      "reservation_rate": "0.4%",
-      "reservation_audience": 2232,
-      "reservation_sales": null,
-      "raw_text": "0.4% (누적:2,232명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 22,
-      "movie_name_ko": "미세스 그린 애플 매지컬 10주년 기념 라이브 ~피오르드~ 온 스크린",
-      "movie_name_en": null,
-      "reservation_rate": "0.4%",
-      "reservation_audience": 1968,
-      "reservation_sales": null,
-      "raw_text": "0.4% (누적:1,968명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 23,
       "movie_name_ko": "쇼타씨의 마지막 출장",
       "movie_name_en": null,
       "reservation_rate": "0.4%",
-      "reservation_audience": 1837,
+      "reservation_audience": 2243,
       "reservation_sales": null,
-      "raw_text": "0.4% (누적:1,837명)"
+      "raw_text": "0.4% (누적:2,243명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 24,
+      "rank": 22,
       "movie_name_ko": "탑건: 매버릭",
       "movie_name_en": null,
-      "reservation_rate": "0.3%",
-      "reservation_audience": 1627,
+      "reservation_rate": "0.4%",
+      "reservation_audience": 1845,
       "reservation_sales": null,
-      "raw_text": "0.3% (누적:1,627명)"
+      "raw_text": "0.4% (누적:1,845명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 25,
+      "rank": 23,
+      "movie_name_ko": "남태령",
+      "movie_name_en": null,
+      "reservation_rate": "0.3%",
+      "reservation_audience": 1750,
+      "reservation_sales": null,
+      "raw_text": "0.3% (누적:1,750명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 24,
       "movie_name_ko": "왕과 사는 남자",
       "movie_name_en": null,
       "reservation_rate": "0.2%",
-      "reservation_audience": 992,
+      "reservation_audience": 1196,
       "reservation_sales": null,
-      "raw_text": "0.2% (누적:992명)"
+      "raw_text": "0.2% (누적:1,196명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 26,
+      "rank": 25,
       "movie_name_ko": "미세스 그린 애플 매지컬 10주년 다큐멘터리 필름 ~디 오리진~",
       "movie_name_en": null,
       "reservation_rate": "0.2%",
-      "reservation_audience": 901,
+      "reservation_audience": 1042,
       "reservation_sales": null,
-      "raw_text": "0.2% (누적:901명)"
+      "raw_text": "0.2% (누적:1,042명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 27,
+      "rank": 26,
       "movie_name_ko": "이프 온리",
       "movie_name_en": null,
       "reservation_rate": "0.2%",
-      "reservation_audience": 774,
+      "reservation_audience": 893,
       "reservation_sales": null,
-      "raw_text": "0.2% (누적:774명)"
+      "raw_text": "0.2% (누적:893명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 28,
-      "movie_name_ko": "다윗",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 730,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:730명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 29,
-      "movie_name_ko": "아이엠 포포",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 726,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:726명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 30,
-      "movie_name_ko": "마이 샤이니 월드",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 684,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:684명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 31,
-      "movie_name_ko": "유레카",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 614,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:614명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 32,
+      "rank": 27,
       "movie_name_ko": "카드캡터 체리 극장판",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 599,
+      "reservation_audience": 753,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:599명)"
+      "raw_text": "0.1% (누적:753명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 33,
+      "rank": 28,
+      "movie_name_ko": "유레카",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 750,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:750명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 29,
+      "movie_name_ko": "마이 샤이니 월드",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 687,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:687명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 30,
       "movie_name_ko": "신의악단",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 592,
+      "reservation_audience": 564,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:592명)"
+      "raw_text": "0.1% (누적:564명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 31,
+      "movie_name_ko": "로메리아",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 557,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:557명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 32,
+      "movie_name_ko": "아이엠 포포",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 514,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:514명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 33,
+      "movie_name_ko": "다윗",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 513,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:513명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 34,
+      "movie_name_ko": "순례자들은 왜 돌아오지 않는가",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 490,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:490명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 35,
       "movie_name_ko": "올 그린스",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 450,
+      "reservation_audience": 438,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:450명)"
+      "raw_text": "0.1% (누적:438명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 35,
+      "rank": 36,
       "movie_name_ko": "초한전",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
@@ -387,10 +398,21 @@
       "raw_text": "0.1% (누적:416명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 36,
+      "rank": 37,
       "movie_name_ko": "란 12.3",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 380,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:380명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 38,
+      "movie_name_ko": "짱구",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
       "reservation_audience": 375,
@@ -398,10 +420,10 @@
       "raw_text": "0.1% (누적:375명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 37,
-      "movie_name_ko": "세계의 주인",
+      "rank": 39,
+      "movie_name_ko": "극장판 총집편 걸즈 밴드 크라이 있잖아, 미래.",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
       "reservation_audience": 364,
@@ -409,21 +431,10 @@
       "raw_text": "0.1% (누적:364명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 38,
-      "movie_name_ko": "짱구",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 362,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:362명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 39,
-      "movie_name_ko": "펀치 드렁크 러브",
+      "rank": 40,
+      "movie_name_ko": "세계의 주인",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
       "reservation_audience": 357,
@@ -431,62 +442,62 @@
       "raw_text": "0.1% (누적:357명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 40,
-      "movie_name_ko": "로메리아",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 351,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:351명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 41,
-      "movie_name_ko": "극장판 총집편 걸즈 밴드 크라이 있잖아, 미래.",
+      "movie_name_ko": "파티마가 사랑한 계절",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 340,
+      "reservation_audience": 338,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:340명)"
+      "raw_text": "0.1% (누적:338명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 42,
-      "movie_name_ko": "순례자들은 왜 돌아오지 않는가",
+      "movie_name_ko": "펀치 드렁크 러브",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 307,
+      "reservation_audience": 329,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:307명)"
+      "raw_text": "0.1% (누적:329명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 43,
+      "movie_name_ko": "비발디와 나",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 328,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:328명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 44,
+      "movie_name_ko": "케이온",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 318,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:318명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 45,
       "movie_name_ko": "낙원의 곤경",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 303,
+      "reservation_audience": 304,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:303명)"
+      "raw_text": "0.1% (누적:304명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 45,
-      "movie_name_ko": "여행자",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 302,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:302명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 46,
       "movie_name_ko": "아라시 20주년 투어 콘서트 5✕20",
@@ -497,76 +508,65 @@
       "raw_text": "0.1% (누적:298명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 48,
-      "movie_name_ko": "유메지",
-      "movie_name_en": null,
-      "reservation_rate": "0.1%",
-      "reservation_audience": 292,
-      "reservation_sales": null,
-      "raw_text": "0.1% (누적:292명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 49,
+      "rank": 47,
       "movie_name_ko": "침묵의 빛",
       "movie_name_en": null,
       "reservation_rate": "0.1%",
-      "reservation_audience": 286,
+      "reservation_audience": 291,
       "reservation_sales": null,
-      "raw_text": "0.1% (누적:286명)"
+      "raw_text": "0.1% (누적:291명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 48,
+      "movie_name_ko": "내 이름은",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 287,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:287명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 49,
+      "movie_name_ko": "피나",
+      "movie_name_en": null,
+      "reservation_rate": "0.1%",
+      "reservation_audience": 279,
+      "reservation_sales": null,
+      "raw_text": "0.1% (누적:279명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 50,
+      "movie_name_ko": "반칙왕 몽키",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 256,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:256명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 51,
       "movie_name_ko": "푸지에",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 252,
+      "reservation_audience": 254,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:252명)"
+      "raw_text": "0.0% (누적:254명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 51,
-      "movie_name_ko": "피나",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 244,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:244명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 52,
-      "movie_name_ko": "탑건",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 239,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:239명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 53,
-      "movie_name_ko": "사냥꾼의 밤",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 238,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:238명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 54,
-      "movie_name_ko": "인히어런트 바이스",
+      "movie_name_ko": "기동전사 건담: 섬광의 하사웨이 키르케의 마녀",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 237,
@@ -574,20 +574,9 @@
       "raw_text": "0.0% (누적:237명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 55,
-      "movie_name_ko": "내 이름은",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 231,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:231명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 56,
+      "rank": 54,
       "movie_name_ko": "맘보 점보",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -596,21 +585,10 @@
       "raw_text": "0.0% (누적:218명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 57,
-      "movie_name_ko": "반칙왕 몽키",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 216,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:216명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 58,
-      "movie_name_ko": "박하향 소다수",
+      "rank": 55,
+      "movie_name_ko": "유메지",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 212,
@@ -618,65 +596,65 @@
       "raw_text": "0.0% (누적:212명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 59,
-      "movie_name_ko": "팬텀 스레드",
+      "rank": 57,
+      "movie_name_ko": "마지막 국화 이야기",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 210,
+      "reservation_audience": 208,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:210명)"
+      "raw_text": "0.0% (누적:208명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 58,
+      "movie_name_ko": "인히어런트 바이스",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 206,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:206명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 59,
+      "movie_name_ko": "여행자",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 193,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:193명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 60,
       "movie_name_ko": "매그놀리아",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 207,
+      "reservation_audience": 182,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:207명)"
+      "raw_text": "0.0% (누적:182명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 61,
-      "movie_name_ko": "마지막 국화 이야기",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 204,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:204명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 62,
-      "movie_name_ko": "기동전사 건담: 섬광의 하사웨이 키르케의 마녀",
+      "movie_name_ko": "안젤름",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 201,
+      "reservation_audience": 178,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:201명)"
+      "raw_text": "0.0% (누적:178명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 63,
-      "movie_name_ko": "마스터",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 181,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:181명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 64,
-      "movie_name_ko": "쉘부르의 우산",
+      "movie_name_ko": "르누아르",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 175,
@@ -684,65 +662,54 @@
       "raw_text": "0.0% (누적:175명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 64,
+      "movie_name_ko": "마스터",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 169,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:169명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 65,
-      "movie_name_ko": "르누아르",
+      "movie_name_ko": "드림하이: 쇼뮤지컬 온 스테이지",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 171,
+      "reservation_audience": 167,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:171명)"
+      "raw_text": "0.0% (누적:167명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 66,
-      "movie_name_ko": "3670",
+      "rank": 67,
+      "movie_name_ko": "탑건",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 165,
+      "reservation_audience": 166,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:165명)"
+      "raw_text": "0.0% (누적:166명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 68,
-      "movie_name_ko": "데어 윌 비 블러드",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 159,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:159명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 69,
-      "movie_name_ko": "르세라핌 브이알 콘서트 : 인비테이션",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 154,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:154명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 70,
       "movie_name_ko": "영혼을 손에 품고 걷는다",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 144,
+      "reservation_audience": 147,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:144명)"
+      "raw_text": "0.0% (누적:147명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 71,
-      "movie_name_ko": "무뢰한",
+      "rank": 69,
+      "movie_name_ko": "르세라핌 브이알 콘서트 : 인비테이션",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 141,
@@ -750,43 +717,76 @@
       "raw_text": "0.0% (누적:141명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 72,
+      "rank": 71,
       "movie_name_ko": "리오 브라보",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 134,
+      "reservation_audience": 136,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:134명)"
+      "raw_text": "0.0% (누적:136명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 73,
-      "movie_name_ko": "드림하이: 쇼뮤지컬 온 스테이지",
+      "rank": 72,
+      "movie_name_ko": "최후의 만찬",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 129,
+      "reservation_audience": 131,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:129명)"
+      "raw_text": "0.0% (누적:131명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 74,
+      "rank": 75,
+      "movie_name_ko": "데어 윌 비 블러드",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 120,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:120명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 77,
       "movie_name_ko": "항해자",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 116,
+      "reservation_audience": 119,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:116명)"
+      "raw_text": "0.0% (누적:119명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 76,
+      "rank": 78,
+      "movie_name_ko": "전사의 징표",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 118,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:118명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 79,
       "movie_name_ko": "소년",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 117,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:117명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 80,
+      "movie_name_ko": "영화의 역사(들) 1부",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 115,
@@ -794,10 +794,10 @@
       "raw_text": "0.0% (누적:115명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 78,
-      "movie_name_ko": "로빈슨 크루소",
+      "rank": 81,
+      "movie_name_ko": "너새니얼 도어스키의 영화들",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 112,
@@ -805,32 +805,10 @@
       "raw_text": "0.0% (누적:112명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 80,
-      "movie_name_ko": "피어스",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 108,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:108명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 81,
-      "movie_name_ko": "너새니얼 도어스키의 영화들",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 107,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:107명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 83,
-      "movie_name_ko": "마녀배달부 키키",
+      "rank": 82,
+      "movie_name_ko": "영화의 역사(들) 2부",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 106,
@@ -838,10 +816,21 @@
       "raw_text": "0.0% (누적:106명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 83,
+      "movie_name_ko": "열여덟 청춘",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 105,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:105명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 84,
-      "movie_name_ko": "최후의 만찬",
+      "movie_name_ko": "피어스",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 101,
@@ -849,32 +838,32 @@
       "raw_text": "0.0% (누적:101명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 85,
       "movie_name_ko": "누룩",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 99,
+      "reservation_audience": 98,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:99명)"
+      "raw_text": "0.0% (누적:98명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 86,
-      "movie_name_ko": "침묵의 친구",
+      "movie_name_ko": "엔조",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 96,
+      "reservation_audience": 97,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:96명)"
+      "raw_text": "0.0% (누적:97명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 87,
-      "movie_name_ko": "아내는 고백한다",
+      "movie_name_ko": "침묵의 친구",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 94,
@@ -882,42 +871,42 @@
       "raw_text": "0.0% (누적:94명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 88,
-      "movie_name_ko": "한복 입은 남자",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 92,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:92명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 89,
-      "movie_name_ko": "엔조",
+      "movie_name_ko": "3670",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 84,
+      "reservation_audience": 88,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:84명)"
+      "raw_text": "0.0% (누적:88명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 90,
       "movie_name_ko": "관념의 남자 김철수",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 82,
+      "reservation_audience": 83,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:82명)"
+      "raw_text": "0.0% (누적:83명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 91,
+      "rank": 92,
+      "movie_name_ko": "청춘",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 81,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:81명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 93,
       "movie_name_ko": "힌드의 목소리",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -926,20 +915,9 @@
       "raw_text": "0.0% (누적:80명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 94,
-      "movie_name_ko": "청춘",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 79,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:79명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 95,
       "movie_name_ko": "청춘",
       "movie_name_en": "하드 타임즈",
       "reservation_rate": "0.0%",
@@ -948,7 +926,18 @@
       "raw_text": "0.0% (누적:78명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 95,
+      "movie_name_ko": "청춘",
+      "movie_name_en": "홈커밍",
+      "reservation_rate": "0.0%",
+      "reservation_audience": 77,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:77명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 96,
       "movie_name_ko": "사람과 고기",
@@ -959,31 +948,20 @@
       "raw_text": "0.0% (누적:76명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 98,
-      "movie_name_ko": "왕십리 김종분",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 75,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:75명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 99,
       "movie_name_ko": "셜록 주니어",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 73,
+      "reservation_audience": 74,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:73명)"
+      "raw_text": "0.0% (누적:74명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 101,
+      "rank": 100,
       "movie_name_ko": "원 오크 록 디톡스 투어 인 시네마",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -992,32 +970,32 @@
       "raw_text": "0.0% (누적:72명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 102,
+      "movie_name_ko": "수집가",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 69,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:69명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 103,
       "movie_name_ko": "퀸 락 몬트리올",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 71,
+      "reservation_audience": 68,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:71명)"
+      "raw_text": "0.0% (누적:68명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 103,
-      "movie_name_ko": "모드 집에서의 하룻밤",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 67,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:67명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 104,
-      "movie_name_ko": "5월 수요단편극장",
+      "rank": 106,
+      "movie_name_ko": "보이 인 더 풀",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 66,
@@ -1025,21 +1003,21 @@
       "raw_text": "0.0% (누적:66명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 105,
-      "movie_name_ko": "수집가",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 64,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:64명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 107,
-      "movie_name_ko": "몽그렐스",
+      "movie_name_ko": "추락의 해부",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 65,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:65명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 108,
+      "movie_name_ko": "5시부터 7시까지 클레오",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 63,
@@ -1047,21 +1025,21 @@
       "raw_text": "0.0% (누적:63명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 108,
-      "movie_name_ko": "마술피리",
+      "rank": 109,
+      "movie_name_ko": "클레르의 무릎",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 60,
+      "reservation_audience": 62,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:60명)"
+      "raw_text": "0.0% (누적:62명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 111,
-      "movie_name_ko": "원 배틀 애프터 어나더",
+      "rank": 110,
+      "movie_name_ko": "한복 입은 남자",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 59,
@@ -1069,43 +1047,43 @@
       "raw_text": "0.0% (누적:59명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 111,
+      "movie_name_ko": "핵전략 사령부",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 56,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:56명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 112,
+      "movie_name_ko": "태극기 휘날리며",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 55,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:55명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 113,
-      "movie_name_ko": "쉘터",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 58,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:58명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 114,
-      "movie_name_ko": "5시부터 7시까지 클레오",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 53,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:53명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 117,
       "movie_name_ko": "체리 향기",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 52,
+      "reservation_audience": 51,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:52명)"
+      "raw_text": "0.0% (누적:51명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 118,
-      "movie_name_ko": "핵전략 사령부",
+      "rank": 114,
+      "movie_name_ko": "마술피리",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 50,
@@ -1113,10 +1091,21 @@
       "raw_text": "0.0% (누적:50명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 119,
-      "movie_name_ko": "두 검사",
+      "rank": 115,
+      "movie_name_ko": "로봇 드림",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 49,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:49명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 116,
+      "movie_name_ko": "도쿄가",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 48,
@@ -1124,10 +1113,10 @@
       "raw_text": "0.0% (누적:48명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 120,
-      "movie_name_ko": "파리, 텍사스",
+      "rank": 117,
+      "movie_name_ko": "노스탤지어 + (홀리스 프램튼에 따른) 강연",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 45,
@@ -1135,10 +1124,10 @@
       "raw_text": "0.0% (누적:45명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 121,
-      "movie_name_ko": "사토상과 사토상",
+      "rank": 118,
+      "movie_name_ko": "레안드로 리스토르티 감독전 – 어느 아키비스트의 일기",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 44,
@@ -1146,21 +1135,10 @@
       "raw_text": "0.0% (누적:44명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 122,
-      "movie_name_ko": "노스탤지어 + (홀리스 프램튼에 따른) 강연",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 43,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:43명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 123,
-      "movie_name_ko": "이반리 장만옥",
+      "rank": 120,
+      "movie_name_ko": "사토상과 사토상",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 42,
@@ -1168,21 +1146,21 @@
       "raw_text": "0.0% (누적:42명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 124,
-      "movie_name_ko": "늑대아이",
+      "rank": 122,
+      "movie_name_ko": "파리, 텍사스",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 41,
+      "reservation_audience": 40,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:41명)"
+      "raw_text": "0.0% (누적:40명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 125,
-      "movie_name_ko": "도쿄가",
+      "rank": 123,
+      "movie_name_ko": "달걀 원정대",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 39,
@@ -1190,10 +1168,10 @@
       "raw_text": "0.0% (누적:39명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 127,
-      "movie_name_ko": "훈련사",
+      "rank": 125,
+      "movie_name_ko": "달콤한 인생",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 38,
@@ -1201,10 +1179,10 @@
       "raw_text": "0.0% (누적:38명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 128,
-      "movie_name_ko": "지금은맞고그때는틀리다",
+      "rank": 126,
+      "movie_name_ko": "센티멘탈 밸류",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 37,
@@ -1212,10 +1190,10 @@
       "raw_text": "0.0% (누적:37명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 130,
-      "movie_name_ko": "케이온",
+      "rank": 127,
+      "movie_name_ko": "하얀리본",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 34,
@@ -1223,21 +1201,21 @@
       "raw_text": "0.0% (누적:34명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 132,
-      "movie_name_ko": "레안드로 리스토르티 감독전 – 어느 아키비스트의 일기",
+      "rank": 129,
+      "movie_name_ko": "슬라이드 스트럼 뮤트",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 33,
+      "reservation_audience": 31,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:33명)"
+      "raw_text": "0.0% (누적:31명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 134,
-      "movie_name_ko": "만춘",
+      "rank": 130,
+      "movie_name_ko": "신데렐라",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 30,
@@ -1245,21 +1223,10 @@
       "raw_text": "0.0% (누적:30명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 137,
-      "movie_name_ko": "너의 췌장을 먹고 싶어",
-      "movie_name_en": null,
-      "reservation_rate": "0.0%",
-      "reservation_audience": 29,
-      "reservation_sales": null,
-      "raw_text": "0.0% (누적:29명)"
-    },
-    {
-      "collected_at": "2026-05-21 06:23:35 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 138,
-      "movie_name_ko": "우리가 빛이라 상상하는 모든 것",
+      "rank": 133,
+      "movie_name_ko": "청춘 스케치",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 28,
@@ -1267,10 +1234,10 @@
       "raw_text": "0.0% (누적:28명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 140,
-      "movie_name_ko": "신데렐라",
+      "rank": 135,
+      "movie_name_ko": "비긴 어게인",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 27,
@@ -1278,10 +1245,10 @@
       "raw_text": "0.0% (누적:27명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 142,
-      "movie_name_ko": "달콤한 인생",
+      "rank": 136,
+      "movie_name_ko": "만춘",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 26,
@@ -1289,10 +1256,10 @@
       "raw_text": "0.0% (누적:26명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 143,
-      "movie_name_ko": "사랑할 땐 누구나 최악이 된다",
+      "rank": 140,
+      "movie_name_ko": "마술피리",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 25,
@@ -1300,10 +1267,21 @@
       "raw_text": "0.0% (누적:25명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 144,
-      "movie_name_ko": "로봇 드림",
+      "rank": 145,
+      "movie_name_ko": "찬실이는 복도 많지",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 24,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:24명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 149,
+      "movie_name_ko": "녹색광선",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 23,
@@ -1311,10 +1289,10 @@
       "raw_text": "0.0% (누적:23명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 149,
-      "movie_name_ko": "마술피리",
+      "rank": 151,
+      "movie_name_ko": "스윙걸즈",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 22,
@@ -1322,9 +1300,9 @@
       "raw_text": "0.0% (누적:22명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 154,
+      "rank": 152,
       "movie_name_ko": "노르마",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -1333,10 +1311,10 @@
       "raw_text": "0.0% (누적:21명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 156,
-      "movie_name_ko": "쉽게 젖고 분수 뿜는 청순녀",
+      "rank": 154,
+      "movie_name_ko": "지금은맞고그때는틀리다",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 20,
@@ -1344,10 +1322,10 @@
       "raw_text": "0.0% (누적:20명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 160,
-      "movie_name_ko": "신경쇠약 직전의 여자",
+      "rank": 157,
+      "movie_name_ko": "애프터 양",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 18,
@@ -1355,9 +1333,9 @@
       "raw_text": "0.0% (누적:18명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 162,
+      "rank": 160,
       "movie_name_ko": "나쁜계집애: 달려라 하니",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -1366,10 +1344,10 @@
       "raw_text": "0.0% (누적:17명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 165,
-      "movie_name_ko": "6시간 후 너는 죽는다",
+      "rank": 161,
+      "movie_name_ko": "내 여자친구의 남자친구",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 16,
@@ -1377,10 +1355,21 @@
       "raw_text": "0.0% (누적:16명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 169,
-      "movie_name_ko": "더 스퀘어",
+      "rank": 162,
+      "movie_name_ko": "토니 에드만",
+      "movie_name_en": null,
+      "reservation_rate": "0.0%",
+      "reservation_audience": 15,
+      "reservation_sales": null,
+      "raw_text": "0.0% (누적:15명)"
+    },
+    {
+      "collected_at": "2026-05-22 00:01:12 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 166,
+      "movie_name_ko": "사랑에 관한 짧은 필름",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 14,
@@ -1388,10 +1377,10 @@
       "raw_text": "0.0% (누적:14명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 171,
-      "movie_name_ko": "아녜스 바르다의 해변",
+      "rank": 169,
+      "movie_name_ko": "이삭줍는 사람들과 나",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 13,
@@ -1399,10 +1388,10 @@
       "raw_text": "0.0% (누적:13명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 173,
-      "movie_name_ko": "탑",
+      "rank": 170,
+      "movie_name_ko": "제너럴",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 12,
@@ -1410,10 +1399,10 @@
       "raw_text": "0.0% (누적:12명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 178,
-      "movie_name_ko": "햄넷",
+      "rank": 172,
+      "movie_name_ko": "비행사의 아내",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 11,
@@ -1421,10 +1410,10 @@
       "raw_text": "0.0% (누적:11명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 182,
-      "movie_name_ko": "토니 에드만",
+      "rank": 175,
+      "movie_name_ko": "6시간 후 너는 죽는다",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 10,
@@ -1432,9 +1421,9 @@
       "raw_text": "0.0% (누적:10명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 186,
+      "rank": 180,
       "movie_name_ko": "돌핀보이: 푸른 바다의 수호자",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -1443,10 +1432,10 @@
       "raw_text": "0.0% (누적:9명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 190,
-      "movie_name_ko": "비행사의 아내",
+      "rank": 181,
+      "movie_name_ko": "탑",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 8,
@@ -1454,10 +1443,10 @@
       "raw_text": "0.0% (누적:8명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 194,
-      "movie_name_ko": "이사",
+      "rank": 186,
+      "movie_name_ko": "미야자키 하야오의 그대들은 어떻게 살 것인가",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 7,
@@ -1465,10 +1454,10 @@
       "raw_text": "0.0% (누적:7명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 196,
-      "movie_name_ko": "타인의 삶",
+      "rank": 187,
+      "movie_name_ko": "바르다가 사랑한 얼굴들",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 6,
@@ -1476,10 +1465,10 @@
       "raw_text": "0.0% (누적:6명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 198,
-      "movie_name_ko": "이삭줍는 사람들과 나",
+      "rank": 195,
+      "movie_name_ko": "여름이 지나가면",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 5,
@@ -1487,10 +1476,10 @@
       "raw_text": "0.0% (누적:5명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 205,
-      "movie_name_ko": "해변의 폴린",
+      "rank": 206,
+      "movie_name_ko": "새벽의 모든",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 4,
@@ -1498,10 +1487,10 @@
       "raw_text": "0.0% (누적:4명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 216,
-      "movie_name_ko": "여름이 지나가면",
+      "rank": 215,
+      "movie_name_ko": "기생충",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 3,
@@ -1509,10 +1498,10 @@
       "raw_text": "0.0% (누적:3명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 227,
-      "movie_name_ko": "아침바다 갈매기는",
+      "rank": 221,
+      "movie_name_ko": "리 크로닌의 미이라",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
       "reservation_audience": 2,
@@ -1520,9 +1509,9 @@
       "raw_text": "0.0% (누적:2명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 239,
+      "rank": 230,
       "movie_name_ko": "빨간마스크 KF94 + 아메바 소녀들과 학교괴담",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
@@ -1531,15 +1520,15 @@
       "raw_text": "0.0% (누적:1명)"
     },
     {
-      "collected_at": "2026-05-21 06:23:35 KST",
+      "collected_at": "2026-05-22 00:01:12 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 3670,
       "movie_name_ko": "관객 수",
       "movie_name_en": null,
       "reservation_rate": "0.0%",
-      "reservation_audience": 165,
+      "reservation_audience": 88,
       "reservation_sales": null,
-      "raw_text": "0.0% (누적:165명)"
+      "raw_text": "0.0% (누적:88명)"
     }
   ]
 }
