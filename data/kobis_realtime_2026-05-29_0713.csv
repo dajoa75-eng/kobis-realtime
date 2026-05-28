@@ -1,0 +1,130 @@
+﻿collected_at,source,rank,movie_name_ko,movie_name_en,reservation_rate,reservation_audience,reservation_sales,raw_text
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,1,군체,,39.9%,182639,,"39.9% (누적:182,639명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,2,와일드 씽,,11.9%,54341,,"11.9% (누적:54,341명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,3,백룸,,10.8%,49501,,"10.8% (누적:49,501명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,4,만달로리안과 그로구,,6.6%,30411,,"6.6% (누적:30,411명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,5,플레이브 아시아 투어 [대쉬: 퀀텀 리프] 앙코르 인 시네마,,6.2%,28566,,"6.2% (누적:28,566명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,6,마이클,,5.9%,26973,,"5.9% (누적:26,973명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,7,이상한 과자 가게 전천당,,4.4%,20079,,"4.4% (누적:20,079명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,8,너바나 더 밴드 : 전설적 밴드 ‘너바나’와는 별 관련 없는 ‘너바나 더 밴드’의 콤비 맷과 제이. 어느 날 공연을 위해 타임머신을 만드는 황당한 작전을 세우고 처음 만났던 17년 전으로 돌,,1.4%,6547,,"1.4% (누적:6,547명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,9,극장판 호빵맨: 세균맨과 그림책의 루룬,,1.3%,5896,,"1.3% (누적:5,896명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,10,뒷자리에 태워줘,,0.9%,4114,,"0.9% (누적:4,114명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,11,미세스 그린 애플 매지컬 10주년 기념 라이브 ~피오르드~ 온 스크린,,0.8%,3712,,"0.8% (누적:3,712명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,12,신극장판 은혼: 요시와라 대염상,,0.8%,3696,,"0.8% (누적:3,696명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,13,카드캡터 체리 극장판,,0.7%,3325,,"0.7% (누적:3,325명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,14,악마는 프라다를 입는다 2,,0.7%,3142,,"0.7% (누적:3,142명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,15,슈퍼 마리오 갤럭시,,0.7%,3077,,"0.7% (누적:3,077명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,16,파이널 피스,,0.6%,2914,,"0.6% (누적:2,914명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,17,로메리아,,0.5%,2471,,"0.5% (누적:2,471명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,18,쇼타씨의 마지막 출장,,0.5%,2087,,"0.5% (누적:2,087명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,19,유레카,,0.3%,1564,,"0.3% (누적:1,564명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,20,프로젝트 헤일메리,,0.3%,1492,,"0.3% (누적:1,492명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,21,로봇 드림,,0.3%,1415,,"0.3% (누적:1,415명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,22,순례자들은 왜 돌아오지 않는가,,0.3%,1353,,"0.3% (누적:1,353명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,23,미세스 그린 애플 매지컬 10주년 다큐멘터리 필름 ~디 오리진~,,0.3%,1340,,"0.3% (누적:1,340명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,24,극장판 내 마음의 위험한 녀석,,0.3%,1215,,"0.3% (누적:1,215명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,25,울프 토템,,0.2%,1024,,"0.2% (누적:1,024명)"
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,26,싱 스트리트,,0.2%,878,,0.2% (누적:878명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,27,현상수배,,0.2%,796,,0.2% (누적:796명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,28,왕과 사는 남자,,0.1%,557,,0.1% (누적:557명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,29,다윗,,0.1%,534,,0.1% (누적:534명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,30,아가씨,확장판,0.1%,513,,0.1% (누적:513명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,31,살목지,,0.1%,503,,0.1% (누적:503명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,32,상자 속의 양,,0.1%,496,,0.1% (누적:496명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,33,고독의 오후,,0.1%,377,,0.1% (누적:377명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,34,박쥐,확장판,0.1%,350,,0.1% (누적:350명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,35,엔조,,0.1%,342,,0.1% (누적:342명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,36,란 12.3,,0.1%,336,,0.1% (누적:336명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,37,남태령,,0.1%,318,,0.1% (누적:318명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,38,신의악단,,0.1%,316,,0.1% (누적:316명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,39,침묵의 빛,,0.1%,298,,0.1% (누적:298명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,40,"극장판 총집편 걸즈 밴드 크라이 있잖아, 미래.",,0.1%,279,,0.1% (누적:279명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,41,비발디와 나,,0.1%,255,,0.1% (누적:255명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,42,올 그린스,,0.1%,242,,0.1% (누적:242명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,43,올드보이,,0.1%,231,,0.1% (누적:231명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,44,이프 온리,,0.0%,221,,0.0% (누적:221명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,45,유메지,,0.0%,211,,0.0% (누적:211명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,46,여행자,,0.0%,202,,0.0% (누적:202명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,47,교생실습,,0.0%,200,,0.0% (누적:200명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,48,쉘부르의 우산,,0.0%,193,,0.0% (누적:193명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,49,내 이름은,,0.0%,183,,0.0% (누적:183명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,50,펀치 드렁크 러브,,0.0%,172,,0.0% (누적:172명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,51,복수는 나의 것,,0.0%,170,,0.0% (누적:170명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,52,파티마가 사랑한 계절,,0.0%,165,,0.0% (누적:165명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,53,짱구,,0.0%,161,,0.0% (누적:161명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,54,친절한 금자씨,,0.0%,155,,0.0% (누적:155명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,55,이반리 장만옥,,0.0%,153,,0.0% (누적:153명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,56,사람과 고기,,0.0%,152,,0.0% (누적:152명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,57,매그놀리아,,0.0%,146,,0.0% (누적:146명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,58,드림하이: 쇼뮤지컬 온 스테이지,,0.0%,143,,0.0% (누적:143명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,59,스페이스 타임,,0.0%,142,,0.0% (누적:142명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,60,낙원의 곤경,,0.0%,138,,0.0% (누적:138명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,61,리오 브라보,,0.0%,134,,0.0% (누적:134명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,62,너새니얼 도어스키의 영화들,,0.0%,123,,0.0% (누적:123명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,64,소년,,0.0%,121,,0.0% (누적:121명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,65,콜럼버스,,0.0%,118,,0.0% (누적:118명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,66,세계의 주인,,0.0%,109,,0.0% (누적:109명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,67,안젤름,,0.0%,106,,0.0% (누적:106명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,68,팬텀 스레드,,0.0%,104,,0.0% (누적:104명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,69,피나,,0.0%,102,,0.0% (누적:102명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,70,사냥꾼의 밤,,0.0%,99,,0.0% (누적:99명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,71,케이온,,0.0%,96,,0.0% (누적:96명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,73,심판,,0.0%,88,,0.0% (누적:88명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,74,녹색광선,,0.0%,87,,0.0% (누적:87명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,75,피어스,,0.0%,85,,0.0% (누적:85명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,76,데어 윌 비 블러드,,0.0%,80,,0.0% (누적:80명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,77,오피셜히게단디즘 라이브 앳 스타디움 2025,,0.0%,76,,0.0% (누적:76명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,78,마스터,,0.0%,66,,0.0% (누적:66명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,79,그녀가 돌아온 날,,0.0%,65,,0.0% (누적:65명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,82,레안드로 리스토르티 감독전 – 어느 아키비스트의 일기,,0.0%,64,,0.0% (누적:64명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,84,시티홀,,0.0%,61,,0.0% (누적:61명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,85,푸지에,,0.0%,58,,0.0% (누적:58명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,87,메뉴의 즐거움 - 트와그로 가족,,0.0%,57,,0.0% (누적:57명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,88,원 배틀 애프터 어나더,,0.0%,56,,0.0% (누적:56명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,90,두 검사,,0.0%,55,,0.0% (누적:55명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,92,슈가,,0.0%,54,,0.0% (누적:54명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,93,하와이 연가,,0.0%,53,,0.0% (누적:53명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,94,노스탤지어 + (홀리스 프램튼에 따른) 강연,,0.0%,52,,0.0% (누적:52명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,97,노르마,,0.0%,51,,0.0% (누적:51명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,98,몽그렐스,,0.0%,50,,0.0% (누적:50명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,99,추락의 해부,,0.0%,49,,0.0% (누적:49명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,100,마술피리,,0.0%,47,,0.0% (누적:47명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,104,권투도장,,0.0%,46,,0.0% (누적:46명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,106,버클리에서,,0.0%,45,,0.0% (누적:45명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,107,내 여자친구의 남자친구,,0.0%,44,,0.0% (누적:44명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,108,잭슨 하이츠에서,,0.0%,43,,0.0% (누적:43명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,110,호퍼스,,0.0%,42,,0.0% (누적:42명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,112,부부,,0.0%,41,,0.0% (누적:41명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,113,인히어런트 바이스,,0.0%,40,,0.0% (누적:40명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,115,마지막 편지,,0.0%,36,,0.0% (누적:36명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,116,만춘,,0.0%,34,,0.0% (누적:34명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,119,오차즈케의 맛,,0.0%,33,,0.0% (누적:33명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,120,하얀리본,,0.0%,32,,0.0% (누적:32명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,122,줄무늬 파자마를 입은 소년,,0.0%,31,,0.0% (누적:31명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,124,3670,,0.0%,29,,0.0% (누적:29명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,126,시라트,,0.0%,28,,0.0% (누적:28명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,127,퀸 락 몬트리올,,0.0%,27,,0.0% (누적:27명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,128,비행사의 아내,,0.0%,26,,0.0% (누적:26명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,130,애프터 양,,0.0%,24,,0.0% (누적:24명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,131,스윙걸즈,,0.0%,21,,0.0% (누적:21명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,134,바르다가 사랑한 얼굴들,,0.0%,20,,0.0% (누적:20명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,137,마지막 야구 경기,,0.0%,19,,0.0% (누적:19명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,138,디스클로저 데이,,0.0%,18,,0.0% (누적:18명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,139,첫여름,,0.0%,17,,0.0% (누적:17명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,142,이인,,0.0%,16,,0.0% (누적:16명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,145,여행과 나날,,0.0%,15,,0.0% (누적:15명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,149,빨간 나라를 보았니,,0.0%,14,,0.0% (누적:14명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,150,신경쇠약 직전의 여자,,0.0%,13,,0.0% (누적:13명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,152,서울독립영화제 순회상영회 인디피크닉2026 단편1: 도시의 맥박,,0.0%,12,,0.0% (누적:12명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,154,르누아르,,0.0%,11,,0.0% (누적:11명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,159,해피 아워,,0.0%,10,,0.0% (누적:10명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,162,낭트의 자코,,0.0%,9,,0.0% (누적:9명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,166,서울독립영화제 순회상영회 인디피크닉2026 단편2: 계절의 여백,,0.0%,8,,0.0% (누적:8명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,167,5시부터 7시까지 클레오,,0.0%,7,,0.0% (누적:7명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,171,모드 집에서의 하룻밤,,0.0%,6,,0.0% (누적:6명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,176,타오르는 여인의 초상,,0.0%,5,,0.0% (누적:5명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,183,제너럴,,0.0%,4,,0.0% (누적:4명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,189,마녀배달부 키키,,0.0%,3,,0.0% (누적:3명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,195,여름이 지나가면,,0.0%,2,,0.0% (누적:2명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,206,꽃잎,,0.0%,1,,0.0% (누적:1명)
+2026-05-29 07:13:23 KST,https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do,3670,관객 수,,0.0%,29,,0.0% (누적:29명)
