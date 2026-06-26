@@ -1,0 +1,57 @@
+[
+  {
+    "collected_at": "2026-06-27 02:00:21 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 1,
+    "movie_name_ko": "토이 스토리 5",
+    "movie_name_en": null,
+    "reservation_rate": "41.6%",
+    "reservation_audience": 146069,
+    "reservation_sales": null,
+    "raw_text": "41.6% (146,069명)"
+  },
+  {
+    "collected_at": "2026-06-27 02:00:21 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 2,
+    "movie_name_ko": "눈동자",
+    "movie_name_en": null,
+    "reservation_rate": "12.9%",
+    "reservation_audience": 45440,
+    "reservation_sales": null,
+    "raw_text": "12.9% (45,440명)"
+  },
+  {
+    "collected_at": "2026-06-27 02:00:21 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 3,
+    "movie_name_ko": "슈퍼걸",
+    "movie_name_en": null,
+    "reservation_rate": "5.9%",
+    "reservation_audience": 20616,
+    "reservation_sales": null,
+    "raw_text": "5.9% (20,616명)"
+  },
+  {
+    "collected_at": "2026-06-27 02:00:21 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 4,
+    "movie_name_ko": "마티 슈프림",
+    "movie_name_en": null,
+    "reservation_rate": "5.6%",
+    "reservation_audience": 19700,
+    "reservation_sales": null,
+    "raw_text": "5.6% (19,700명)"
+  },
+  {
+    "collected_at": "2026-06-27 02:00:21 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 5,
+    "movie_name_ko": "군체",
+    "movie_name_en": null,
+    "reservation_rate": "5.0%",
+    "reservation_audience": 17451,
+    "reservation_sales": null,
+    "raw_text": "5.0% (17,451명)"
+  }
+]
