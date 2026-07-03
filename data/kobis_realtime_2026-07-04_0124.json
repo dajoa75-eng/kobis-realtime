@@ -1,0 +1,57 @@
+[
+  {
+    "collected_at": "2026-07-04 01:23:33 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 1,
+    "movie_name_ko": "토이 스토리 5",
+    "movie_name_en": null,
+    "reservation_rate": "31.4%",
+    "reservation_audience": 107817,
+    "reservation_sales": null,
+    "raw_text": "31.4% (107,817명)"
+  },
+  {
+    "collected_at": "2026-07-04 01:23:33 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 2,
+    "movie_name_ko": "호프",
+    "movie_name_en": null,
+    "reservation_rate": "17.5%",
+    "reservation_audience": 60038,
+    "reservation_sales": null,
+    "raw_text": "17.5% (60,038명)"
+  },
+  {
+    "collected_at": "2026-07-04 01:23:33 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 3,
+    "movie_name_ko": "눈동자",
+    "movie_name_en": null,
+    "reservation_rate": "14.5%",
+    "reservation_audience": 49747,
+    "reservation_sales": null,
+    "raw_text": "14.5% (49,747명)"
+  },
+  {
+    "collected_at": "2026-07-04 01:23:33 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 4,
+    "movie_name_ko": "모아나",
+    "movie_name_en": null,
+    "reservation_rate": "5.0%",
+    "reservation_audience": 17312,
+    "reservation_sales": null,
+    "raw_text": "5.0% (17,312명)"
+  },
+  {
+    "collected_at": "2026-07-04 01:23:33 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 5,
+    "movie_name_ko": "마티 슈프림",
+    "movie_name_en": null,
+    "reservation_rate": "4.8%",
+    "reservation_audience": 16497,
+    "reservation_sales": null,
+    "raw_text": "4.8% (16,497명)"
+  }
+]
