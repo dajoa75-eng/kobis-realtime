@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-14 02:12:15 KST",
+  "updated_at": "2026-07-15 01:14:01 KST",
   "rows": [
     {
-      "collected_at": "2026-07-14 02:11:54 KST",
+      "collected_at": "2026-07-15 01:13:51 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 1,
       "movie_name_ko": "호프",
       "movie_name_en": null,
-      "reservation_rate": "64.2%",
-      "reservation_audience": 461649,
+      "reservation_rate": "68.2%",
+      "reservation_audience": 602021,
       "reservation_sales": null,
-      "raw_text": "64.2% (461,649명)"
+      "raw_text": "68.2% (602,021명)"
     },
     {
-      "collected_at": "2026-07-14 02:11:54 KST",
+      "collected_at": "2026-07-15 01:13:51 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 2,
       "movie_name_ko": "스파이더맨: 브랜드 뉴 데이",
       "movie_name_en": null,
-      "reservation_rate": "14.0%",
-      "reservation_audience": 100935,
+      "reservation_rate": "11.4%",
+      "reservation_audience": 100380,
       "reservation_sales": null,
-      "raw_text": "14.0% (100,935명)"
+      "raw_text": "11.4% (100,380명)"
     },
     {
-      "collected_at": "2026-07-14 02:11:54 KST",
+      "collected_at": "2026-07-15 01:13:51 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 3,
-      "movie_name_ko": "오디세이",
-      "movie_name_en": null,
-      "reservation_rate": "5.6%",
-      "reservation_audience": 40003,
-      "reservation_sales": null,
-      "raw_text": "5.6% (40,003명)"
-    },
-    {
-      "collected_at": "2026-07-14 02:11:54 KST",
-      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
-      "rank": 4,
       "movie_name_ko": "미니언즈 & 몬스터즈",
       "movie_name_en": null,
-      "reservation_rate": "5.1%",
-      "reservation_audience": 36690,
+      "reservation_rate": "6.2%",
+      "reservation_audience": 54739,
       "reservation_sales": null,
-      "raw_text": "5.1% (36,690명)"
+      "raw_text": "6.2% (54,739명)"
     },
     {
-      "collected_at": "2026-07-14 02:11:54 KST",
+      "collected_at": "2026-07-15 01:13:51 KST",
+      "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+      "rank": 4,
+      "movie_name_ko": "오디세이",
+      "movie_name_en": null,
+      "reservation_rate": "4.8%",
+      "reservation_audience": 42629,
+      "reservation_sales": null,
+      "raw_text": "4.8% (42,629명)"
+    },
+    {
+      "collected_at": "2026-07-15 01:13:51 KST",
       "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
       "rank": 5,
       "movie_name_ko": "모아나",
       "movie_name_en": null,
-      "reservation_rate": "2.3%",
-      "reservation_audience": 16544,
+      "reservation_rate": "1.8%",
+      "reservation_audience": 16071,
       "reservation_sales": null,
-      "raw_text": "2.3% (16,544명)"
+      "raw_text": "1.8% (16,071명)"
     }
   ]
 }
