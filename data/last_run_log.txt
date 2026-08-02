@@ -1,7 +1,4 @@
 OK
-rows=123
-kobis_realtime_2026-08-02_0101.csv
-kobis_realtime_2026-08-02_0101.json
-Mobile Playwright fetch failed: Page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do", waiting until "networkidle"
+rows=112
+kobis_realtime_2026-08-03_0100.csv
+kobis_realtime_2026-08-03_0100.json
