@@ -1,4 +1,4 @@
 OK
-rows=153
-kobis_realtime_2026-09-02_0309.csv
-kobis_realtime_2026-09-02_0309.json
+rows=155
+kobis_realtime_2026-09-03_0326.csv
+kobis_realtime_2026-09-03_0326.json
