@@ -1,4 +1,7 @@
 OK
-rows=169
-kobis_realtime_2026-09-08_0400.csv
-kobis_realtime_2026-09-08_0400.json
+rows=166
+kobis_realtime_2026-09-09_0320.csv
+kobis_realtime_2026-09-09_0320.json
+Mobile Playwright fetch failed: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do
+Call log:
+  - navigating to "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do", waiting until "networkidle"
