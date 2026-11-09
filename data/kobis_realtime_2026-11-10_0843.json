@@ -1,0 +1,57 @@
+[
+  {
+    "collected_at": "2026-11-10 08:43:39 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 1,
+    "movie_name_ko": "임영웅 | 아임 히어로 더 스타디움 2",
+    "movie_name_en": null,
+    "reservation_rate": "13.3%",
+    "reservation_audience": 32037,
+    "reservation_sales": null,
+    "raw_text": "13.3% (32,037명)"
+  },
+  {
+    "collected_at": "2026-11-10 08:43:39 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 2,
+    "movie_name_ko": "극장판 치이카와: 인어 섬의 비밀",
+    "movie_name_en": null,
+    "reservation_rate": "10.8%",
+    "reservation_audience": 26015,
+    "reservation_sales": null,
+    "raw_text": "10.8% (26,015명)"
+  },
+  {
+    "collected_at": "2026-11-10 08:43:39 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 3,
+    "movie_name_ko": "폭설",
+    "movie_name_en": null,
+    "reservation_rate": "9.5%",
+    "reservation_audience": 22960,
+    "reservation_sales": null,
+    "raw_text": "9.5% (22,960명)"
+  },
+  {
+    "collected_at": "2026-11-10 08:43:39 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 4,
+    "movie_name_ko": "듄",
+    "movie_name_en": null,
+    "reservation_rate": "8.5%",
+    "reservation_audience": 20480,
+    "reservation_sales": null,
+    "raw_text": "8.5% (20,480명)"
+  },
+  {
+    "collected_at": "2026-11-10 08:43:39 KST",
+    "source": "https://kobis.or.kr/kobis/mobile/main/findRealTicketList.do",
+    "rank": 5,
+    "movie_name_ko": "라라랜드",
+    "movie_name_en": null,
+    "reservation_rate": "6.0%",
+    "reservation_audience": 14419,
+    "reservation_sales": null,
+    "raw_text": "6.0% (14,419명)"
+  }
+]
